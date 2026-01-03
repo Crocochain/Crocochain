@@ -11,7 +11,7 @@ CrocoChain is a free and award-winning ecosystem of **lightweight desktop and we
 All applications are fully integrated, fast, and easy to use, creating a seamless experience for general users and productivity enthusiasts. CrocoChain focuses on speed, privacy, and safety while remaining highly intuitive.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Crocochain/Crocochain/main/crocochain.jpg" alt="Crocochain Logo" width="400">
+  <img src="https://github.com/Crocochain/Crocochain/blob/main/crocochain-logo.png" alt="Crocochain Logo" width="400">
 </p>
 
 
