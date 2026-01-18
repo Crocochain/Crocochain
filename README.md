@@ -108,3 +108,4 @@ Access all releases: [CrocoChain Releases](https://github.com/Crocochain)
 ---
 
 CrocoChain brings all essential desktop and web tools into **one lightweight, fast, secure, and integrated ecosystem**. Explore the tools and experience a seamless, productive, and safe workflow designed for everyone.
+Url: https://crocochain.com
